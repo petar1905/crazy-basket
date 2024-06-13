@@ -1,0 +1,4 @@
+PlayerIdle,0,0,586,1167
+PlayerIdlePossession,587,0,586,1167
+PlayerWalk,1174,0,586,1167
+PlayerWalkPossession,0,1168,586,1167
